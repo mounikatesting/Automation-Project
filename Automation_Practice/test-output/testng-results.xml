@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-12T09:48:32 IST" name="Default suite" finished-at="2024-08-12T09:48:55 IST" duration-ms="22533">
+    <groups>
+    </groups>
+    <test started-at="2024-08-12T09:48:32 IST" name="Default test" finished-at="2024-08-12T09:48:55 IST" duration-ms="22533">
+      <class name="automation_Practice.UI_Testing">
+        <test-method signature="openBrowser()[pri:0, instance:automation_Practice.UI_Testing@1d119efb]" started-at="2024-08-12T09:48:32 IST" name="openBrowser" finished-at="2024-08-12T09:48:55 IST" duration-ms="22493" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+      </class> <!-- automation_Practice.UI_Testing -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
